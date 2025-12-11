@@ -11,37 +11,3 @@
         padding: 15px 15px 25px;
     }
 }
-
-.navigation {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 10px;
-}
-
-.navigation__links {
-    display: flex;
-    gap: 35px;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-@media screen and (max-width: 767px) {
-    .navigation__links {
-        gap: 15px;
-    }
-}
-
-.navigation__link {
-    margin: 0;
-    color: #000;
-    text-decoration: none;
-    font-weight: 700;
-    font-size: 12px;
-    letter-spacing: 0.4px;
-    transition: opacity 0.5s ease-out;
-}
-.navigation__link:hover {
-    opacity: 0.7;
-}
