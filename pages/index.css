@@ -1,41 +1,41 @@
-@import url("/teamworkN-A/vendor/normalize.css");
-@import url("/teamworkN-A/vendor/fonts/fonts.css");
+@import url("../vendor/normalize.css");
+@import url("../vendor/fonts/fonts.css");
 
-@import url("/teamworkN-A/blocks/page/page.css");
+@import url("../blocks/page/page.css");
 
-@import url("/teamworkN-A/blocks/title/title.css");
-@import url("/teamworkN-A/blocks/subtitle/subtitle.css");
-@import url("/teamworkN-A/blocks/paragraph/paragraph.css");
+@import url("../blocks/title/title.css");
+@import url("../blocks/subtitle/subtitle.css");
+@import url("../blocks/paragraph/paragraph.css");
 
-@import url("/teamworkN-A/blocks/header/header.css");
+@import url("../blocks/header/header.css");
 
-@import url("/teamworkN-A/blocks/navigation/navigation.css");
-@import url("/teamworkN-A/blocks/navigation/__links/navigation__links.css");
-@import url("/teamworkN-A/blocks/navigation/__link/navigation__link.css");
+@import url("../blocks/navigation/navigation.css");
+@import url("../blocks/navigation/__links/navigation__links.css");
+@import url("../blocks/navigation/__link/navigation__link.css");
 
-@import url("/teamworkN-A/blocks/intro/intro.css");
-@import url("/teamworkN-A/blocks/intro/__title/intro__title.css");
-@import url("/teamworkN-A/blocks/intro/__subtitle/intro__subtitle.css");
-@import url("/teamworkN-A/blocks/intro/__text/intro__text.css");
-@import url("/teamworkN-A/blocks/intro/__image/intro__image.css");
-@import url("/teamworkN-A/blocks/intro/__image-wrapper/intro__image-wrapper.css");
+@import url("../blocks/intro/intro.css");
+@import url("../blocks/intro/__title/intro__title.css");
+@import url("../blocks/intro/__subtitle/intro__subtitle.css");
+@import url("../blocks/intro/__text/intro__text.css");
+@import url("../blocks/intro/__image/intro__image.css");
+@import url("../blocks/intro/__image-wrapper/intro__image-wrapper.css");
 
-@import url("/teamworkN-A/blocks/places/places.css");
+@import url("../blocks/places/places.css");
 
-@import url("/teamworkN-A/blocks/place/place.css");
-@import url("/teamworkN-A/blocks/place/__image-wrapper/place__image-wrapper.css");
-@import url("/teamworkN-A/blocks/place/__image/place__image.css");
-@import url("/teamworkN-A/blocks/place/_where/place_where_forest.css");
-@import url("/teamworkN-A/blocks/place/_where/place_where_mountains.css");
-@import url("/teamworkN-A/blocks/place/_where/place_where_sea.css");
-@import url("/teamworkN-A/blocks/place/__text/place__text.css");
-@import url("/teamworkN-A/blocks/place/__paragraphs/place__paragraphs.css");
+@import url("../blocks/place/place.css");
+@import url("../blocks/place/__image-wrapper/place__image-wrapper.css");
+@import url("../blocks/place/__image/place__image.css");
+@import url("../blocks/place/_where/place_where_forest.css");
+@import url("../blocks/place/_where/place_where_mountains.css");
+@import url("../blocks/place/_where/place_where_sea.css");
+@import url("../blocks/place/__text/place__text.css");
+@import url("../blocks/place/__paragraphs/place__paragraphs.css");
 
-@import url("/teamworkN-A/blocks/people/people.css");
-@import url("/teamworkN-A/blocks/people/__subtitle/people__subtitle.css");
-@import url("/teamworkN-A/blocks/people/__quotes/people__quotes.css");
-@import url("/teamworkN-A/blocks/people/__quote/people__quote.css");
-@import url("/teamworkN-A/blocks/people/__quote-author/people__quote-author.css");
+@import url("../blocks/people/people.css");
+@import url("../blocks/people/__subtitle/people__subtitle.css");
+@import url("../blocks/people/__quotes/people__quotes.css");
+@import url("../blocks/people/__quote/people__quote.css");
+@import url("../blocks/people/__quote-author/people__quote-author.css");
 
-@import url("/teamworkN-A/blocks/footer/footer.css");
-@import url("/teamworkN-A/blocks/footer/__copyright/footer__copyright.css");
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__copyright/footer__copyright.css");
